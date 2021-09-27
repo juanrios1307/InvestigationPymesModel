@@ -11,7 +11,7 @@ Deep Learning model to predict the probability of default of pymes  in the city 
 - Predict Stocks [pythonrepo.com](https://pythonrepo.com/repo/VivekPa-NeuralNetworkStocks-python-deep-learning)
 
 - TF Neural Net CSV [pythonprogramminglanguage.com](https://pythonprogramminglanguage.com/tensorflow-deep-neural-network-csv/)
-
+- Python with Keras [machinelearningmastery.com](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 ## Q Learning
 
 -

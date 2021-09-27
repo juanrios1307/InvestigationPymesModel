@@ -1,7 +1,7 @@
 # InvestigationPymesModel
 Deep Learning model to predict the probability of default of pymes  in the city of Medellín
 
--Deep Learning Models [simplilearn.com](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm)
+- Deep Learning Models [simplilearn.com](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm)
 
 # Models
 
@@ -39,6 +39,7 @@ Deep Learning model to predict the probability of default of pymes  in the city 
 ## DATA
 
 - Datos Pymes [supersociedades.gov.co](https://www.supersociedades.gov.co/delegatura_aec/Paginas/Base-completa-EF-2019.aspx)
+- Dadtos Historicos [supersociedades.gov.co](https://www.supersociedades.gov.co/delegatura_aec/estudios_financieros/Paginas/estados-financieros-historicos.aspx)
 
 ## Licencia:
 

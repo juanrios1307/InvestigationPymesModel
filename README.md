@@ -3,6 +3,15 @@ Deep Learning model to predict the probability of default of pymes  in the city 
 
 - Deep Learning Models [simplilearn.com](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm)
 
+# Libraries
+
+- Python Risk Analytics [Risk Analytics](https://sites.google.com/view/riskanalytics)
+- Numpy [numpy.org](https://numpy.org/)
+- Pandas [pandas.pydata.org](https://pandas.pydata.org/)
+- Tensorflow [tensorflow.org](https://www.tensorflow.org/?hl=es-419)
+- Keras [keras.io](https://keras.io/)
+- Scikit Learn [scikit-learn.org](https://scikit-learn.org/)
+
 # Models
 
 ## Neural Networks

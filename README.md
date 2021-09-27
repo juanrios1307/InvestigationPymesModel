@@ -36,6 +36,10 @@ Deep Learning model to predict the probability of default of pymes  in the city 
 
 - Logistic regression for probability of default [Default Probability](https://s3.amazonaws.com/assets.datacamp.com/production/course_19197/slides/chapter2.pdf)
 
+## DATA
+
+- Datos Pymes [supersociedades.gov.co](https://www.supersociedades.gov.co/delegatura_aec/Paginas/Base-completa-EF-2019.aspx)
+
 ## Licencia:
 
 MIT License -[LICENSE.md]() for more details
